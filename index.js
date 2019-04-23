@@ -1,1 +1,1 @@
-document.location.assign("bluesoulceviriekibi.github.io");
+document.location.assign("https://bluesoulceviriekibi.github.io");
