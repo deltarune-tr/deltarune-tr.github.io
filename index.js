@@ -1,0 +1,1 @@
+document.location.assign("bluesoulceviriekibi.github.io");
