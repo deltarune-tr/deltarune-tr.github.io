@@ -1,1 +1,0 @@
-document.location.assign("https://bluesoulceviriekibi.github.io/deltarune");
