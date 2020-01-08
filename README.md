@@ -1,2 +1,1 @@
-# bluesoulceviriekibi.net/ceviri/deltarune.html
-Deltarune-TR Resmi WEB Sitesi
+# https://bluesoulceviriekibi.net/ceviri/deltarune
